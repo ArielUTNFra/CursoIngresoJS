@@ -4,7 +4,8 @@
 */
 function Mostar()
 {
-
+var respuesta = prompt ("Ingrese un dato", "Texto ingresado por defecto");
+document.getElementById ("elNombre").value = respuesta;
 
 }
 
