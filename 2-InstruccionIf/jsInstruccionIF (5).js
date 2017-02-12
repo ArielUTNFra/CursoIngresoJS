@@ -1,6 +1,12 @@
-function Mostrar()
+function Mostrar(){//tomo la edad  
+
+var a = document.getElementById ("edad").value;
+
+if (a > 12 && e <= 17)
+{       
+                alert ("No es adolecente");
+}
+else
 {
-//tomo la edad  
-
-
-}//FIN DE LA FUNCIÓN
+}
+}//FIN DE LA FUNCIÓN!
